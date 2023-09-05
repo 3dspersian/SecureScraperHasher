@@ -1,0 +1,4 @@
+pwn
+requests
+bs4
+hashlib
